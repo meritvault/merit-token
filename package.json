@@ -1,0 +1,25 @@
+{
+  "name": "merit-token",
+  "version": "1.0.0",
+  "description": "### Tests",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meritvault/merit-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meritvault/merit-token/issues"
+  },
+  "homepage": "https://github.com/meritvault/merit-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
