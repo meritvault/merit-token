@@ -15,7 +15,7 @@ contract Merit is ERC20PresetMinterPauser, Ownable {
     // CONSTRUCTOR
     // ------------------------
 
-    constructor () ERC20PresetMinterPauser('Merit', 'MERIT') {
+    constructor () ERC20PresetMinterPauser('Merit Vault', 'MERIT') {
         // Silence
     }
 
